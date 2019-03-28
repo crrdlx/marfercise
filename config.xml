@@ -7,10 +7,10 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>PureCSS Template</name>
+  <name>Marfercise</name>
 
   <description>
-      A responsive template for a website or app. This means it looks good everywhere.
+      Martha's exercise app.
   </description>
 
   <author href="https://crrdlx.github.io/" email="crrdlx@gmail.com">
