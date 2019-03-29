@@ -17,4 +17,6 @@
       crrdlx
   </author>
 
+  <icon src="res/icon.png" />
+
 </widget>
